@@ -199,3 +199,23 @@ nav li a{
 .abtitem{
     text-align: center;
 }
+
+.whatido{
+    text-align: center;
+}
+.whatidohead{
+    color: rgb(24, 24, 24);
+    font-family: Open Sans;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.whatidop{
+    color: rgb(117, 117, 117);
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    
+}
